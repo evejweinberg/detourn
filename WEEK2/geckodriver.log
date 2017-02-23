@@ -1,0 +1,629 @@
+1486085836663	geckodriver	INFO	Listening on 127.0.0.1:50510
+1486085837901	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.jHpbdCdcEaKL
+1486085837903	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486085837921	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50519
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486085838650	Marionette	INFO	Listening on port 50519
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://neveroddoreven.tv/_jsapps/_libs/cargo.apicore.package.js?17.01.06.1&, line 140: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://neveroddoreven.tv/, line 98: TypeError: Cargo.Config is undefined
+[Child 24408] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24408] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486486894658	geckodriver	INFO	Listening on 127.0.0.1:54455
+1486486895619	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.ZhyJA56xmIZK
+1486486895621	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486486895635	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54464
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486486896284	Marionette	INFO	Listening on port 54464
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+1486486946095	geckodriver	INFO	Listening on 127.0.0.1:54506
+1486486947091	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.sRZnU1RleVee
+1486486947092	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486486947095	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54515
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486486947618	Marionette	INFO	Listening on port 54515
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2094] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2094] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487053686	geckodriver	INFO	Listening on 127.0.0.1:54584
+1486487054672	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.mCjLpLbB8Yur
+1486487054673	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487054678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54593
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487055172	Marionette	INFO	Listening on port 54593
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[Child 2120] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2120] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487171947	geckodriver	INFO	Listening on 127.0.0.1:54664
+1486487172935	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.C7DrkxG5c0WG
+1486487172937	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487172941	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54673
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487173450	Marionette	INFO	Listening on port 54673
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[Child 2144] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2144] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487192679	geckodriver	INFO	Listening on 127.0.0.1:54735
+1486487193669	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.PAnM2Z4oTo3u
+1486487193671	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487193675	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54744
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487194166	Marionette	INFO	Listening on port 54744
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2159] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2159] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487208379	geckodriver	INFO	Listening on 127.0.0.1:54804
+1486487209374	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.bwkFRz6Zh38f
+1486487209376	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487209379	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54813
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487209896	Marionette	INFO	Listening on port 54813
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[Child 2175] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2175] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487434079	geckodriver	INFO	Listening on 127.0.0.1:54895
+1486487435066	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.0xq9iDcpJH5s
+1486487435067	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487435071	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54904
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487435559	Marionette	INFO	Listening on port 54904
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2211] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2211] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2211] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2211] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487448362	geckodriver	INFO	Listening on 127.0.0.1:54967
+1486487449352	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.OO4ne431qkhU
+1486487449353	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487449358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54976
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487449864	Marionette	INFO	Listening on port 54976
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+1486487473101	geckodriver	INFO	Listening on 127.0.0.1:55005
+1486487474102	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.zZ9A6w61bhq2
+1486487474103	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487474106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55014
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487474712	Marionette	INFO	Listening on port 55014
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2239] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2239] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487519142	geckodriver	INFO	Listening on 127.0.0.1:55124
+1486487520118	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.NbJZB4Qqjh6q
+1486487520120	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487520123	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55133
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487520611	Marionette	INFO	Listening on port 55133
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[Child 2255] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2255] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486487543770	geckodriver	INFO	Listening on 127.0.0.1:55227
+1486487544762	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.FOb9lzWa4Pgp
+1486487544763	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487544768	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55236
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487545271	Marionette	INFO	Listening on port 55236
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[Child 2272] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2272] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: https://d.agkn.com/pixel/2387/?ct=US&st=NY&city=13275&dma=3&zp=11215&bw=0&che=1362615015&col=10714116,834537,142986757,315395501,63750633, line 1: SyntaxError: illegal character
+JavaScript error: https://tdameritrade.demdex.net/event?d_event=imp&d_src=38454&d_site=834537&d_creative=63750633&d_adgroup=315395501&d_placement=142986757&d_campaign=10714116&d_adsrc=48123&d_bust=1362615015, line 1: SyntaxError: illegal character
+JavaScript error: http://aa.agkn.com/adscores/g.pixel?sid=9211132908&aam=62739131817710913801738597707598291415, line 1: SyntaxError: illegal character
+JavaScript error: http://static.chartbeat.com/js/chartbeat_mab.js, line 28: TypeError: b.anchor is undefined
+JavaScript error: https://ads.jetpackdigital.com/lineitems/34580/jpdi.html?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsvSo3h7oGD27eDaV8dC-K-zjM5DGfxNz-V60_4xSWWhSlMovyJUO4dxoO4f13pgP1krWL-jzHP6suhhFR7O8D6n9Rn-Nztw6s6qawQyEgzgKCTRlbtN0gzMoc2IW3xDwIQtBQ9v5AlR3z-oAOt30CUmDemaQg7qe_X7wKY07ID0dg0VR1F_HqZ0hqY6j2Q0VoRtArWSd4pnuFMdJMOddSCZm0sanLDPFA%2526sig%253DCg0ArKJSzNIHVVtKQzueEAE%2526urlfix%253D1%2526adurl%253Dhttps://bs.serving-sys.com/serving/adServer.bs?cn=trd&mc=click&pli=20235070&PluID=0&ord=243546103, line 8266: Error: Permission denied to access property "jpHideBannerFrame"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1486487901876	geckodriver	INFO	Listening on 127.0.0.1:55923
+1486487902873	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.7rZEhoGP4ZC7
+1486487902874	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487902877	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55932
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487903417	Marionette	INFO	Listening on port 55932
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487927392	geckodriver	INFO	Listening on 127.0.0.1:55959
+1486487928385	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.68KZlT1WBzIO
+1486487928387	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487928390	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55968
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487928901	Marionette	INFO	Listening on port 55968
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2338] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2338] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1486487995224	geckodriver	INFO	Listening on 127.0.0.1:56140
+1486487996216	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.kMaFjJavGXkP
+1486487996218	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486487996221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56149
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486487996725	Marionette	INFO	Listening on port 56149
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2364] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2364] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486488013715	geckodriver	INFO	Listening on 127.0.0.1:56314
+1486488014705	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.huos5QJNwjj1
+1486488014706	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486488014709	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56323
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486488015221	Marionette	INFO	Listening on port 56323
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2387] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2387] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1486488082645	geckodriver	INFO	Listening on 127.0.0.1:56510
+1486488083642	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.ner44WFbJ0iN
+1486488083643	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486488083646	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56519
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486488084147	Marionette	INFO	Listening on port 56519
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://aa.agkn.com/adscores/g.pixel?sid=9211132908&aam=88350141770922243502489807593212113602, line 1: SyntaxError: illegal character
+[Child 2407] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2407] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486488137128	geckodriver	INFO	Listening on 127.0.0.1:56737
+1486488138120	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.m6pohP3Z45P0
+1486488138121	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486488138124	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56746
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486488138642	Marionette	INFO	Listening on port 56746
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2056.js, line 70: unreachable code after return statement
+[Child 2429] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2429] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://www.i.cdn.cnn.com/.a/bundles/weather.e0d7cd713aa4de3930fc.bundle.js, line 1: TypeError: a is undefined
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn1.child1/highlighter30
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter30
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654679521	geckodriver	INFO	Listening on 127.0.0.1:65234
+1486654680563	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.duDKxqgxhg0A
+1486654680565	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486654680626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65243
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654681272	Marionette	INFO	Listening on port 65243
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 15244] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15244] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486654716248	geckodriver	INFO	Listening on 127.0.0.1:65296
+1486654717255	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.VqqDMuzz2FZb
+1486654717257	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486654717260	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65305
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654717839	Marionette	INFO	Listening on port 65305
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654742768	geckodriver	INFO	Listening on 127.0.0.1:65356
+1486654743770	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.3Rzqmf7p9K8E
+1486654743771	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486654743774	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65365
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654744340	Marionette	INFO	Listening on port 65365
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 15340] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15340] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486654899737	geckodriver	INFO	Listening on 127.0.0.1:49168
+1486654900740	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.zBdtBrGCfh9S
+1486654900742	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486654900745	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49177
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654901414	Marionette	INFO	Listening on port 49177
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654935084	geckodriver	INFO	Listening on 127.0.0.1:49232
+1486654936077	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.ZcDblsO1MVld
+1486654936079	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486654936082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49241
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486654936646	Marionette	INFO	Listening on port 49241
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 15503] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 15503] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486654963759	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1486654963766	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487023980018	geckodriver	INFO	Listening on 127.0.0.1:58004
+1487023981001	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.0gOI8ig0nvno
+1487023981003	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487023981074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58013
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487023981779	Marionette	INFO	Listening on port 58013
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6650] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6650] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487024276326	geckodriver	INFO	Listening on 127.0.0.1:58181
+1487024277300	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.3PQtrfdqYZPr
+1487024277302	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487024277308	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58190
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487024278025	Marionette	INFO	Listening on port 58190
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 755: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iYaR4/y9/l/en_US/-1YRGQUNTmL.js, line 0: Successfully compiled asm.js code (total compilation time 176ms; stored in cache)
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://foxnewsplayer-a.akamaihd.net/player/7.54.0.0007/amp.premier/amp.premier.js, line 21292: redeclaration of block-scoped function `RecommendationsPlugin' is deprecated
+JavaScript warning: http://foxnewsplayer-a.akamaihd.net/player/7.54.0.0007/amp.premier/amp.premier.js, line 21292: redeclaration of block-scoped function `RecommendationsPlugin' is deprecated
+JavaScript warning: http://www.fakenewschecker.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sdk.streamrail.com/player/sr.ads.js?cb=1487024487614, line 0: Successfully compiled asm.js code (total compilation time 4ms; not stored in cache (too small to benefit))
+JavaScript error: http://dpm.demdex.net/ibs:dpid=96678&dpuuid=98RuVT1kJLut, line 1: SyntaxError: illegal character
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript error: https://am.adlooxtracking.com/ads/js/tfav_script1_appnexus.js#client=matiro_adnxs&cmp=15750921&crid=62567578&crsize=300x250&tagid=6932029&pbid=762984&adv=737508&cpg=3715504&seller=181&aid=4335917939957913545&uid=35036842236238991&price=0.1, line 32: NS_ERROR_FAILURE: 
+JavaScript warning: http://foxnewsplayer-a.akamaihd.net/player/7.54.0.0007/amp.premier/amp.premier.js, line 21292: redeclaration of block-scoped function `RecommendationsPlugin' is deprecated
+JavaScript error: http://dpm.demdex.net/ibs:dpid=96678&dpuuid=98RuVT1kJLut, line 1: SyntaxError: illegal character
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-en_US-vfl8LqiZp/base.js, line 688: Error: WebGL: getParameter: parameter: invalid enum value <enum 0x9246>
+JavaScript error: https://secure.flashtalking.com/64105/1524907/anim.js, line 164: ReferenceError: ctaBuilt is not defined
+JavaScript error: https://secure.flashtalking.com/64105/1524907/anim.js, line 176: TypeError: exportRoot.cta is undefined
+JavaScript warning: http://static.fark.com/static/aggregator/js/smi2aggregator.js, line 340: unreachable code after return statement
+JavaScript warning: http://static.fark.com/static/aggregator/js/smi2aggregator.js, line 340: unreachable code after return statement
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pixel.quantserve.com/pixel/p-1RYxePXT9bCS2.gif?media=ad&labels=_imp.adserver.doubleclick,_imp.campaign.10619524,_imp.publisher.601237,_imp.placement.141765387,_imp.adid.314067651,_imp.creative.76681144, line 1: SyntaxError: illegal character
+JavaScript error: https://gmtdmp.mookie1.com/tagr/v1/imp?acid=2&inst=NA&tagid=1130682300&src.platformID=DFA&src.campaignID=10693109&src.placementID=142555329&zeus.migSource=adsrv2&zeus.migAgencyId=1025&zeus.migTrackDataExt=4448560;142555329;317248050;78819545&zeus.migTrackFmtExt=client;io;ad;crtv&zeus.migRandom=3915539578, line 1: SyntaxError: illegal character
+JavaScript error: https://d.agkn.com/pixel/2387/?ct=US&st=NY&city=13275&dma=3&zp=11216&bw=4&che=1581397376&col=10888471,2202028,145290809,316955025,71246728, line 1: SyntaxError: illegal character
+JavaScript error: https://d.agkn.com/pixel/2387/?ct=US&st=NY&city=13275&dma=3&zp=11216&bw=4&che=828882496&col=10888471,2202028,145290811,316956111,71243944, line 1: SyntaxError: illegal character
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-en_US-vfl8LqiZp/base.js, line 688: Error: WebGL: getParameter: parameter: invalid enum value <enum 0x9246>
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487025108491	geckodriver	INFO	Listening on 127.0.0.1:61282
+1487025109506	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.gAflBw3jVbao
+1487025109507	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025109511	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61291
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025110171	Marionette	INFO	Listening on port 61291
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 7040] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7040] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487025169052	geckodriver	INFO	Listening on 127.0.0.1:61339
+1487025170055	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.REr0qNCPyZxB
+1487025170057	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025170061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61348
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025170678	Marionette	INFO	Listening on port 61348
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 7077] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7077] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7077] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7077] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487025185841	geckodriver	INFO	Listening on 127.0.0.1:61393
+1487025186836	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.zDciUkHOBt5Y
+1487025186838	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025186841	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61402
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025187352	Marionette	INFO	Listening on port 61402
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 7097] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7097] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487025213364	geckodriver	INFO	Listening on 127.0.0.1:61446
+1487025214355	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.kh2g6CSCo3qs
+1487025214357	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025214359	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61455
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025214875	Marionette	INFO	Listening on port 61455
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 7116] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7116] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7116] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7116] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7116] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7116] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7116] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 7116] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7116] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6761] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+1487025632109	geckodriver	INFO	Listening on 127.0.0.1:62153
+1487025633109	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.pyYvn44MHRaW
+1487025633111	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025633115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62162
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025633841	Marionette	INFO	Listening on port 62162
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7238] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7238] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487025672458	geckodriver	INFO	Listening on 127.0.0.1:62343
+1487025673449	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.b0IOzKr0YZAB
+1487025673451	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025673454	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62352
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025673991	Marionette	INFO	Listening on port 62352
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7267] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7267] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487025715293	geckodriver	INFO	Listening on 127.0.0.1:62504
+1487025716289	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.GnB7rTLkazMr
+1487025716291	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025716294	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62513
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025716809	Marionette	INFO	Listening on port 62513
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+1487025813366	geckodriver	INFO	Listening on 127.0.0.1:62744
+1487025814360	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.6gWVbwWAu6AS
+1487025814362	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025814365	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62753
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025814913	Marionette	INFO	Listening on port 62753
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+[Child 7329] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7329] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487025938598	geckodriver	INFO	Listening on 127.0.0.1:62933
+1487025939573	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.R8A6r8g9lwGb
+1487025939574	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487025939579	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62944
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487025940144	Marionette	INFO	Listening on port 62944
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026042808	geckodriver	INFO	Listening on 127.0.0.1:62977
+1487026043804	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.zdjjyhOW3J5r
+1487026043807	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026043810	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62986
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026044319	Marionette	INFO	Listening on port 62986
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+1487026139696	geckodriver	INFO	Listening on 127.0.0.1:63257
+1487026140696	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.Jy2As30Fn2q9
+1487026140697	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026140701	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63267
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026141278	Marionette	INFO	Listening on port 63267
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+1487026178293	geckodriver	INFO	Listening on 127.0.0.1:63463
+1487026179293	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.lJ6g9rbd07r7
+1487026179295	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026179298	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63472
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026179905	Marionette	INFO	Listening on port 63472
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7472] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7472] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487026237123	geckodriver	INFO	Listening on 127.0.0.1:63689
+1487026238121	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.0J6nMMpi19cc
+1487026238123	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026238127	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63698
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026238766	Marionette	INFO	Listening on port 63698
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7499] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7499] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487026669234	geckodriver	INFO	Listening on 127.0.0.1:64127
+1487026670249	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.qHgjFQyfQGCp
+1487026670251	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026670255	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64137
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026670875	Marionette	INFO	Listening on port 64137
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7612] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7612] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487026732329	geckodriver	INFO	Listening on 127.0.0.1:64281
+1487026733324	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.Rv1U7DnrC8Sd
+1487026733326	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026733329	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64291
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026733856	Marionette	INFO	Listening on port 64291
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7640] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7640] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487026779094	geckodriver	INFO	Listening on 127.0.0.1:64517
+1487026780082	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.y6p09G7j1DgH
+1487026780084	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026780087	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64526
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026780617	Marionette	INFO	Listening on port 64526
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7672] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7672] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487026800409	geckodriver	INFO	Listening on 127.0.0.1:64704
+1487026801401	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.DyO36C4hktvX
+1487026801402	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487026801406	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64713
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487026801913	Marionette	INFO	Listening on port 64713
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://assets3.onionstatic.com/onionstatic/onion/static/js/home.d06e00794275.js, line 6: Error: campaign-display component requires a placement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 7692] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7692] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1487257355986	geckodriver	INFO	Listening on 127.0.0.1:49421
+1487257356994	mozprofile::profile	INFO	Using profile path /var/folders/1q/7cv123fd2jd87w85cpvmt3rm0000gn/T/rust_mozprofile.kOEsDk2JjHjC
+1487257356997	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487257357027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49431
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1487257357679	Marionette	INFO	Listening on port 49431
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 85: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 31: unreachable code after return statement
+JavaScript warning: http://player.h-cdn.com/loader.js?customer=theonion, line 60: unreachable code after return statement
+[Child 9614] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9614] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056

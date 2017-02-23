@@ -1,0 +1,90 @@
+1
+h1 Monster
+2
+3
+.monster
+4
+  .face
+5
+    .ears
+6
+    .ears
+7
+    .eyebrow
+8
+    .eye
+9
+    .nose
+10
+    .mouth
+11
+  .body
+12
+    .belly
+13
+  .hands
+14
+    .top
+15
+    .mid
+16
+      div
+17
+      div
+18
+      div
+19
+      div
+20
+    .bottom
+21
+      div
+22
+      div
+23
+      div
+24
+  .hands
+1
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah')
+2
+3
+body
+4
+  background: #49a078
+5
+  margin: 0px
+6
+  7
+  h1
+8
+    text-align: center
+9
+    font:
+10
+      family: "Gloria Hallelujah"
+11
+      size: 48px
+12
+    color: #fff
+13
+    margin-top: 10px
+14
+    15
+  .monster
+16
+    position: relative
+17
+    height: 230px
+18
+    width: 266px
+19
+    margin: 20px auto 0px auto
+20
+    //border: 1px solid red
+21
+    22
+    .face
+23
+      position: absolute
+1

@@ -1,0 +1,168 @@
+HOME  VIDEOS  ALMANAC  GALLERY  SNIPPETS  FORUMS  SHOP  NEWSLETTER  JOBS
+
+Log In
+Sign Up
+CSS-Tricks
+Search
+
+CSS Almanac » Selectors » N »
+:nth-last-child
+BY SARA COPE  LAST UPDATED ON APRIL 3, 2013
+:nth-last-child
+The :nth-last-child selector allows you select one or more elements based on their source order, according to a formula. It is defined in the CSS Selectors Level 3 spec as a “structural pseudo-class”, meaning it is used to style content based on its relationship with parent and sibling elements. It functions the same as :nth-child except it selects items starting at the bottom of the source order, not the top.
+
+Suppose we have a list with an unknown number of items, and we wish to highlight the second-to-last item (in this exact example, the "Fourth Item"):
+
+<ul>
+  <li>First Item</li>
+  <li>Second Item</li>
+  <li>Third Item</li>
+  <li>Fourth Item</li>
+  <li>Fifth Item</li>
+</ul>
+Rather than doing something like adding a class to the list item (e.g. .highlight) we can use :nth-last-child:
+
+li {
+  background: slategrey;
+}
+/* select the second-last item */
+li:nth-last-child(2) {
+  background: lightslategrey;
+}
+As you can see, :nth-last-child takes an argument: this can be a single integer, the keywords “even” or “odd”, or a formula. If an integer is specified only one element is selected – but the keywords or a formula will iterate through all the children of the parent element and select matching elements—similar to navigating items in an array in JavaScript. Keywords “even” and “odd” are straightforward (2, 4, 6 etc or 1, 3, 5 respectively). The formula is constructed using the syntax an+b, where:
+
+“a” is an integer value
+“n” is the literal letter “n”
+“+” is an operator and may be either “+” or “-”
+“b” is an integer and is required if an operator is included in the formula
+It is important to note that this formula is an equation, and iterates through each sibling element, determining which will be selected. The “n” part of the formula, if included, represents a set of increasing positive integers (just like iterating through an array). In our above example, we selected every second element with the formula 2n, which worked because every time an element was checked, “n” increased by one (2×0, 2×1, 2×2, 2×3, etc). If an element's order matches the result of the equation, it gets selected (2, 4, 6, etc). For a more in-depth explanation of the math involved, please read this article.
+
+To illustrate further, here are some examples of valid :nth-last-of-type selectors:
+
+
+Luckily, you don't always have to do the math yourself—there are several :nth-last-child testers and generators out there:
+
+CSS-Tricks Tester
+Lea Verou's Tester
+#Points of Interest
+
+:nth-last-child iterates through elements starting from the bottom of the source order. The only difference between it and :nth-child is that the latter iterates through elements starting from the top of the source order.
+The :nth-last-child selector is very similar to :nth-last-of-type but with one critical difference: it is less specific. In our example above they would produce the same result because we are iterating over only li elements, but if we were iterating over a more complex group of siblings, :nth-last-child would try to match all siblings, not only siblings of the same element type. This reveals the power of :nth-last-child—it can select any sibling element in an arrangement, not only elements that are specified before the colon.
+#Related Properties
+
+nth-child
+nth-last-of-type
+nth-of-type
+first-of-type
+last-of-type
+#Other Resources
+
+Mozilla Docs
+QuirksMode article
+Sitepoint article
+#Browser Support
+
+Chrome	Safari	Firefox	Opera	IE	Android	iOS
+Works	3.2+	Works	9.5+	9+	Works	Works
+:nth-last-child was introduced in CSS Selectors Module 3, which means old versions of browsers do not support it. However, modern browser support is impeccable, and the new pseudo-selectors are widely used in production environments. If you require older browser support, either polyfill for IE, or use these selectors in non-critical ways á la progressive enhancement, which is recommended.
+
+
+Build custom web forms easily.
+Let's get started!
+SIGN UP NOW!
+
+Front-End Jobs
+
+Gimlet Media is hiring a Alexa Skill Developer
+Cloudtech is hiring a Frontend / AngularJS Developer
+LeapYear is hiring a Software Engineer - Front-End
+SEE MORE JOBS   POST A JOB
+ Responsive HTML5/CSS3
+Responsive HTML5/CSS3
+100% Hand Coded Markup by The Best Front-end Developers. Get a Free Quote Now!
+ Responsive image service
+Responsive image service
+Bring truly responsive images to your site, simply by changing their URLs.
+Comments
+
+User Avatar
+Martin Hochel
+Permalink to comment# APRIL 26, 2014
+Hi Chris,
+you have a typo in your pen example
+
+instead of
+.three:before {
+content: ":nth-last-child(-n+2) :nth-last-child(-n+3)";
+}
+
+there should be
+
+.three:before {
+content: ":nth-last-child(-n+2) :nth-last-child(1)";
+}
+
+Reply ↓
+User Avatar
+R.Veerakumar
+Permalink to comment# AUGUST 23, 2015
+it’s not working the code #collmnuss li:nth-last-child(2)
+why?
+
+Reply ↓
+User Avatar
+Abe
+Permalink to comment# FEBRUARY 3, 2016
+I’m assuming you used the brackets { … } after the li:nth-last-child(2), if not then it should fully look like this …
+
+#collmnuss li:nth-last-child(2) { … your styles here … }
+
+or you might of misspelled the #id selector name (#columns).
+
+Posting Code
+
+You may write comments in Markdown. This makes code easy to post, as you can write inline code like `<div>this</div>` or multiline blocks of code in triple backtick fences (```) with double new lines before and after.
+Code of Conduct
+
+Absolutely anyone is welcome to submit a comment here. But not all comments will be posted. Think of it like writing a letter to the editor. All submitted comments will be read, but not all published. Published comments will be on-topic, helpful, and further the discussion or debate.
+Want to tell us something privately?
+
+Feel free to use our contact form. That's a great place to let us know about typos or anything off-topic.
+Submit a Comment
+
+Name*
+Name (required)
+Email
+Email (required)
+Comment
+Your comment here. Be cool.
+WritePreview
+Get the CSS-Tricks newsletter
+
+SUBMIT COMMENT
+Wanna do a workshop at your company?
+
+Thanks to Media Temple, I'm heading to one lucky company's office for a day, for free! It could be yours!
+
+GO ENTER TODAY
+
+We have a pretty good* newsletter.
+
+Email Address
+SUBSCRIBE
+
+CSS-Tricks* is created, written by, and maintained by Chris Coyier and a team of swell people. It is built on WordPress, hosted by Media Temple, and the assets are served by MaxCDN. The fonts are Source Sans Pro and Cooper Hewitt. It is made possible through sponsorships from products and services we like.
+
+*May or may not contain any actual "CSS" or "Tricks".
+
+
+CONTACT
+ABOUT
+ARCHIVES
+ADVERTISE
+JOBS
+GUEST POSTING
+LICENSE
+SHOP
+SUBSCRIBE
+RSS
